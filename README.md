@@ -39,16 +39,16 @@ The motaivation of this project was to build a mid level scale project that comb
 ---
 
 ### Home Page
-![Home Page](img/homepage.png)
+![Home Page](img/homepage.PNG)
 
 ### Recipe Detail Page
-![Recipe Detail](img/recipe_detail.png)
+![Recipe Detail](img/recipe_detail.PNG)
 
 ### User Profile Page
-![User Profile Page](img/profile.png)
+![User Profile Page](img/profile.PNG)
 
 ### Recipe Book Collection
-![Recipe Book Collection](img/recipe_book.png)
+![Recipe Book Collection](img/recipe_book.PNG)
 
 ### Upload Recipe
 ![Upload Recipe](img/upload_recipe.png)
