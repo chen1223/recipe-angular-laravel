@@ -2,7 +2,7 @@
 
 ![Cooking Diary](./img/logo.png)
 
-[Demo Website](https://cooking-diary.com/)
+[Live Demo](https://cooking-diary.com/)
 
 ## Description
 
