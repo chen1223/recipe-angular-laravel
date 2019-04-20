@@ -6,7 +6,7 @@
 
 ## Description
 
-A self-learning recipe website that allows users to upload and share recipes with each other.
+A recipe sharing website that allows users to upload and share recipes with each other.
 
 ## Motivation
 
@@ -20,7 +20,7 @@ The motaivation of this project was to build a mid level scale project that comb
 | Cloud Storage       | Digital Ocean Space                    |
 | Server Machine      | Ubuntu 18.04.1                         |
 | Database            | Postgres                               |
-| Frontend Technology | Angular 6 + SSR managed with pm2       |
+| Frontend Technology | Angular 7 + SSR managed with pm2       |
 | Backend Technology  | Laravel 5.6 with PHP 7.1.3             |
 
 ---
